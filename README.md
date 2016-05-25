@@ -1,4 +1,4 @@
-﻿<<<<<<< HEAD
+
 ﻿# Linux
 Linux codes
 
